@@ -1,3 +1,5 @@
+## PATCHED to work with Elm 0.18.0 in Node
+
 # node-XMLHttpRequest #
 
 node-XMLHttpRequest is a wrapper for the built-in http client to emulate the
